@@ -1,0 +1,8 @@
+[ItemName = 1
+ItemManufacture  = 2
+ItemModel =  3
+ItemSerial  = 4
+ItemMac  = 5
+ItemIP  = 6
+ItemLocation = 8
+]

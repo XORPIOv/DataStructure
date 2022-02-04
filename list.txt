@@ -1,0 +1,17 @@
+
+
+ItemName = samsung
+ItemManufacture  = samsung a10
+ItemModel =  android
+ItemSerial  = 123
+ItemMac  = u84
+ItemIP  = 192
+ItemLocation = istanbul
+
+ItemName = apple
+ItemManufacture  = aplpe a10
+ItemModel =  ios
+ItemSerial  = 12fd3
+ItemMac  = u84df
+ItemIP  = 1934
+ItemLocation = uk
